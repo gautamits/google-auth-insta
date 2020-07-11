@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.5f361e03.chunk.css",
-    "main.js": "/static/js/main.4b42bf22.chunk.js",
-    "main.js.map": "/static/js/main.4b42bf22.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.0728639d.js",
-    "runtime-main.js.map": "/static/js/runtime-main.0728639d.js.map",
-    "static/js/2.14b7a32e.chunk.js": "/static/js/2.14b7a32e.chunk.js",
-    "static/js/2.14b7a32e.chunk.js.map": "/static/js/2.14b7a32e.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.4f66820228f19255ba98f9838f4f0d71.js": "/precache-manifest.4f66820228f19255ba98f9838f4f0d71.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.14b7a32e.chunk.js.LICENSE.txt": "/static/js/2.14b7a32e.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+    "main.css": "/google-auth-insta/static/css/main.5f361e03.chunk.css",
+    "main.js": "/google-auth-insta/static/js/main.dda1cf30.chunk.js",
+    "main.js.map": "/google-auth-insta/static/js/main.dda1cf30.chunk.js.map",
+    "runtime-main.js": "/google-auth-insta/static/js/runtime-main.6229423e.js",
+    "runtime-main.js.map": "/google-auth-insta/static/js/runtime-main.6229423e.js.map",
+    "static/js/2.14b7a32e.chunk.js": "/google-auth-insta/static/js/2.14b7a32e.chunk.js",
+    "static/js/2.14b7a32e.chunk.js.map": "/google-auth-insta/static/js/2.14b7a32e.chunk.js.map",
+    "index.html": "/google-auth-insta/index.html",
+    "precache-manifest.ae28ac7fb149b8038172e7a5851b732e.js": "/google-auth-insta/precache-manifest.ae28ac7fb149b8038172e7a5851b732e.js",
+    "service-worker.js": "/google-auth-insta/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/google-auth-insta/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.14b7a32e.chunk.js.LICENSE.txt": "/google-auth-insta/static/js/2.14b7a32e.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/google-auth-insta/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.0728639d.js",
+    "static/js/runtime-main.6229423e.js",
     "static/js/2.14b7a32e.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.4b42bf22.chunk.js"
+    "static/js/main.dda1cf30.chunk.js"
   ]
 }
