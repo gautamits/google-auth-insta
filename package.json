@@ -2,10 +2,10 @@
   "name": "google-auth-insta",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://gautamits.github.io/google-auth-insta",
+  "homepage": "https://gautamits.github.io/google-auth-insta",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
-    "@testing-library/react": "^9.3.2",
+    "@testing-library/react": "^10.4.5",
     "@testing-library/user-event": "^7.1.2",
     "gh-pages": "^3.1.0",
     "react": "^16.13.1",
