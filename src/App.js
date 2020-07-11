@@ -6,7 +6,7 @@ function App() {
   const responseGoogle = (response) => {
     console.log(response);
   };
-
+  console.log(window.location)
   return (
     <div className="App">
       <GoogleLogin
@@ -15,6 +15,8 @@ function App() {
         onSuccess={responseGoogle}
         onFailure={responseGoogle}
         cookiePolicy={"single_host_origin"}
+        uxMode='redirect'
+        redirectUri={window.location.origin}
       />
     </div>
   );
