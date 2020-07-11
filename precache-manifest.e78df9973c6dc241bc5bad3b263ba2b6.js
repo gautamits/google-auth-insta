@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ba957f51b097a16ae34b184045cb9758",
+    "revision": "cac53066f9eec2e03030dd645e332f7d",
     "url": "/google-auth-insta/index.html"
   },
   {
-    "revision": "262d789b6cb9add07d24",
+    "revision": "454b4b125b2476915103",
     "url": "/google-auth-insta/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/google-auth-insta/static/js/2.14b7a32e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "262d789b6cb9add07d24",
-    "url": "/google-auth-insta/static/js/main.dda1cf30.chunk.js"
+    "revision": "454b4b125b2476915103",
+    "url": "/google-auth-insta/static/js/main.189d8a7d.chunk.js"
   },
   {
     "revision": "1f75be4ba96bf03f6376",
